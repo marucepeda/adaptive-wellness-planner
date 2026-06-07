@@ -1,4 +1,4 @@
-# adaptive-wellness-planner
+# 🌿 Ayurveda Wellness Lab
 
 An interactive wellness planning tool that helps organize nutrition, training, recovery, and daily routines into a practical decision-support system.
 
